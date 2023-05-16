@@ -1,3 +1,5 @@
+using Biblioteca;
+
 namespace Computacion;
 
 public class Alumno
